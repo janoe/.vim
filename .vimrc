@@ -40,7 +40,7 @@ endif
 " The following are commented out as they cause vim to behave a lot
 " differently from regular Vi. They are highly recommended though.
 "set showcmd		" Show (partial) command in status line.
-set showmatch		" Show matching brackets.
+"set showmatch		" Show matching brackets.
 "set ignorecase		" Do case insensitive matching
 "set smartcase		" Do smart case matching
 "set incsearch		" Incremental search
@@ -61,7 +61,12 @@ endif
 "
 "
 "
-set number "Aparece el número de línea
+set number 			" Show line number
+set showmatch		" Show matching brackets.
+set shiftwidth=4	" 4 spaces for tabs
+set smarttab		
+set expandtab
+set showcmd			" Show (partial) command in status line.
 
 if has("autocmd")
   filetype plugin indent on
