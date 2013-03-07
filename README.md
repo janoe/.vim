@@ -1,7 +1,14 @@
 ##My VIM config file
-Este es mi fichero de configuracion
+My vim configuration file:
+Options in this file
+>Show line numbers
+>Show commands in status bar
+>Plugins
+>>Nerdtree
+>>ctrlp
+
+
+###How to install
 	cd
 	git clone --recursive https://github.com/janoe/.vim.git 
->Lista 1
->Lista 2
 
