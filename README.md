@@ -2,11 +2,11 @@
 My vim configuration file:
 >Options in this file
 
-*Show line numbers
-*Show commands in status bar
-*Plugins
-**Nerdtree
-**ctrlp
+* Show line numbers
+* Show commands in status bar
+* Plugins
+** Nerdtree
+** ctrlp
 
 * Unordered list can use asterisks
 - Or minuses
