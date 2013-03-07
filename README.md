@@ -5,12 +5,9 @@ My vim configuration file:
 * Show line numbers
 * Show commands in status bar
 * Plugins
-** Nerdtree
-** ctrlp
+    * Nerdtree
+    * ctrlp
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
 
 ###How to install
 	cd
