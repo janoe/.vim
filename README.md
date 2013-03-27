@@ -12,4 +12,6 @@ My modifications to vim default file.
 ###How to install
 	cd
 	git clone --recursive https://github.com/janoe/.vim.git 
+        ln -s $HOME/.vim/.vimrc $HOME/.vimrc
+
 
