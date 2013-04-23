@@ -67,6 +67,7 @@ set shiftwidth=4	" 4 spaces for tabs
 set smarttab		
 set expandtab
 set showcmd			" Show (partial) command in status line.
+set wildignore=*.class  "exclude .class files from ctrl p plugin
 
 if has("autocmd")
   filetype plugin indent on
