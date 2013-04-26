@@ -90,4 +90,5 @@ let g:NERDTreeDirArrows=0 "Nerd tree: enter does not open sub dirs
 "FIN DE SECCION PLUGINS
 """""""""""""""""""""""""
 
-  
+""Comments in green, i couldnt see them with black background.
+:highlight Comment ctermfg=green  
